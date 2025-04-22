@@ -1,0 +1,6 @@
+ending_title,num_characters,num_primary,num_secondary,num_extras,num_resolved,num_primary_resolved,num_secondary_resolved,num_unresolved,num_mentioned,simple_resolution_accuracy,weighted_resolution_accuracy
+Ending 1:,6,6,0,0,0,0,0,6,6,0.0,0.0
+Ending 2:,6,5,1,0,0,0,0,6,6,0.0,0.0
+Ending 3:,15,5,1,9,0,0,0,6,5,0.0,0.0
+Ending 4:,16,5,1,10,0,0,0,6,5,0.0,0.0
+Ending 5:,5,3,2,0,1,1,0,4,5,0.2,0.25
