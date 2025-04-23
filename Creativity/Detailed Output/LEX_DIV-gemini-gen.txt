@@ -1,0 +1,58 @@
+
+ Lexical Diversity scores for Gemini-2.5-Pro: 
+
+
+ StoryId 22890
+: 
+
+ Lexical Diversity score: 0.8321902906157395
+
+ StoryId 1253
+: 
+
+ Lexical Diversity score: 0.8557249822499412
+
+ StoryId 23535
+: 
+
+ Lexical Diversity score: 0.8348099994415641
+
+ StoryId 23006
+: 
+
+ Lexical Diversity score: 0.8280848861218544
+
+ StoryId 22589
+: 
+
+ Lexical Diversity score: 0.885289858103782
+
+ StoryId 32665
+: 
+
+ Lexical Diversity score: 0.8455770267339509
+
+ StoryId 21279
+: 
+
+ Lexical Diversity score: 0.8645097982759801
+
+ StoryId 29317
+: 
+
+ Lexical Diversity score: 0.8499969688905664
+
+ StoryId 51351
+: 
+
+ Lexical Diversity score: 0.8644296698391845
+
+ StoryId 51414
+: 
+
+ Lexical Diversity score: 0.8673728401160102
+
+ Scores for stories in a list: [0.8321902906157395, 0.8557249822499412, 0.8348099994415641, 0.8280848861218544, 0.885289858103782, 0.8455770267339509, 0.8645097982759801, 0.8499969688905664, 0.8644296698391845, 0.8673728401160102]
+
+ Average Lexical Diversity Score for all story endings generated using Gemini-2.5-Pro: 
+ 0.8527986320388573

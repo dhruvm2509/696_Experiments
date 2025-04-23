@@ -1,0 +1,58 @@
+
+ Lexical Diversity scores for GPT-4o: 
+
+
+ StoryId 1253
+: 
+
+ Lexical Diversity score: 0.7944972360170277
+
+ StoryId 21279
+: 
+
+ Lexical Diversity score: 0.8472548996405505
+
+ StoryId 22589
+: 
+
+ Lexical Diversity score: 0.8388786142376007
+
+ StoryId 22890
+: 
+
+ Lexical Diversity score: 0.8565603811671982
+
+ StoryId 23535
+: 
+
+ Lexical Diversity score: 0.8176019786732373
+
+ StoryId 23006
+: 
+
+ Lexical Diversity score: 0.8223719974351875
+
+ StoryId 29317
+: 
+
+ Lexical Diversity score: 0.8311262433419472
+
+ StoryId 51414
+: 
+
+ Lexical Diversity score: 0.8414905873283551
+
+ StoryId 32665
+: 
+
+ Lexical Diversity score: 0.8455934265756515
+
+ StoryId 51351
+: 
+
+ Lexical Diversity score: 0.8567895109746313
+
+ Scores for stories in a list: [0.7944972360170277, 0.8472548996405505, 0.8388786142376007, 0.8565603811671982, 0.8176019786732373, 0.8223719974351875, 0.8311262433419472, 0.8414905873283551, 0.8455934265756515, 0.8567895109746313]
+
+ Average Lexical Diversity Score for all story endings generated using GPT-4o: 
+ 0.8352164875391387

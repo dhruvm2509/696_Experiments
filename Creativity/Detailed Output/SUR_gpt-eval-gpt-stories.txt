@@ -1,0 +1,369 @@
+
+ Surprise scores for GPT-4o: 
+
+
+
+ StoryId 1253
+: 
+
+Reasoning: The story of Felicite is a poignant tale of a simple, devoted life filled with quiet acts of love and service. The ending, where Felicite passes away peacefully, is consistent with the tone and trajectory of the narrative. Throughout the story, Felicite is portrayed as a humble, selfless character who finds solace in her faith and the small joys of life, such as her parrot, Loulou. The ending, which describes her serene passing and the symbolic presence of Loulou at the altar, aligns with the established themes of devotion and simplicity. There is a gentle beauty in the way her life is celebrated, but it does not introduce a surprising twist or novel idea that defies expectations. Instead, it provides a fitting and expected conclusion to her life story, emphasizing the continuity of her spirit and the quiet impact she had on those around her. Therefore, the ending is not surprising but rather a natural culmination of the narrative.
+
+Score: 1
+
+Reasoning: The story of Felicite is a poignant tale of a servant's life filled with devotion, loss, and quiet resilience. The ending of the story is deeply moving, as it captures the culmination of Felicite's life and her final moments. However, in terms of surprise, the ending does not introduce a highly unexpected or novel twist. The narrative builds towards Felicite's passing, and the procession with Loulou as a centerpiece is a fitting tribute to her life, symbolizing her enduring love and faith. The imagery of her spirit joining those she loved in a divine homecoming is beautifully crafted, but it aligns with the themes of the story and the character's journey. The ending is more of a natural and poetic conclusion rather than a surprising one. It offers a sense of closure and fulfillment, rather than a twist or unexpected revelation.
+
+Score: 2
+
+Reasoning: The story of Felicite is a poignant tale of a simple servant whose life is marked by devotion and loss. The ending of the story, where Felicite passes away peacefully as the Corpus Christi procession takes place, is not particularly surprising. Throughout the narrative, Felicite's life is depicted as one of quiet service and deep, albeit simple, faith. Her attachment to the parrot, Loulou, and her association of it with the Holy Ghost is a recurring theme, and the culmination of her life during a religious festival aligns with her character's devotion. The placement of Loulou on the altar is a fitting tribute to her unique form of worship, but it is not unexpected given the story's development. The ending is touching and fitting, but it follows a natural progression from the story's setup, where Felicite's life and faith are intertwined with her love for those she has lost. Therefore, the ending does not introduce a novel or unexpected twist but rather concludes the story in a manner consistent with its themes.
+
+Score: 2
+
+Reasoning: The story of Felicité is a poignant tale of a life filled with devotion, loss, and quiet resilience. The ending, while beautifully written, follows a path that is consistent with the themes and tone established throughout the narrative. Felicité's life has been marked by her unwavering love and dedication to those she cared for, despite the hardships she faced. The ending, which describes her peaceful passing and the spiritual fulfillment she experiences, aligns with the reader's expectations based on her character and life story. The imagery of her spirit being lifted and the sense of eternal love and peace are fitting conclusions to her journey. There is a sense of closure and continuity, as her legacy of love and faith endures beyond her physical life. While the ending is touching and well-crafted, it does not introduce a highly surprising or novel twist. Instead, it provides a satisfying and expected resolution to Felicité's story.
+
+Score: 2
+
+Reasoning: The story of Felicite is a poignant tale of a simple servant whose life is marked by devotion and loss. The ending, where Felicite finds peace and unity with the divine through her connection with Loulou the parrot, is not entirely surprising given the narrative's progression. Throughout the story, Felicite's life is depicted as one of quiet endurance and deep, albeit simple, faith. Her attachment to Loulou, who she associates with the Holy Spirit, is a recurring theme that foreshadows the ending. The use of the parrot as a symbol of divine grace and Felicite's peaceful passing are consistent with the story's tone and themes. While the imagery of the parrot on the altar and Felicite's transcendence is beautifully crafted, it does not defy expectations or introduce a novel twist. The ending is a natural culmination of Felicite's life journey, offering closure and a sense of fulfillment rather than surprise.
+
+Score: 2
+
+ Scores for all individual endings: [1, 2, 2, 2, 2]
+
+ Average surprise score: 1.8
+
+
+ StoryId 21279
+: 
+
+Reasoning: The story sets up a dystopian world where population control is strictly enforced, and the concept of life and death is managed by the state. The narrative builds tension around the birth of triplets and the requirement for volunteers to die to allow the children to live. The ending reveals a shocking and violent resolution where Wehling, the father, kills Dr. Hitz, Leora Duncan, and himself to make room for his children. This act of desperation and defiance is unexpected, as the story initially focuses on the bureaucratic and clinical aspects of life and death in this society. The painter's reaction to the scene, seeing it as a more honest depiction of life than his mural, adds a layer of philosophical reflection that contrasts with the sterile environment. The ending is surprising because it defies the established norms of the story's world and introduces a raw, emotional response to the dehumanizing system. The painter's final actions and thoughts further emphasize the theme of seeking truth beyond the controlled facade. Overall, the ending is a clear and well-formed surprise that catches the reader off guard in an interesting way.
+
+Score: 4
+
+Reasoning: The story sets up a dystopian world where population control is enforced through a system of voluntary death, and the narrative builds around the painter, the orderly, and Wehling, who is faced with an impossible choice regarding his newborn triplets. The ending reveals Wehling's drastic decision to shoot Dr. Hitz, Leora Duncan, and himself to make room for his children, which is a significant and unexpected turn of events. This act of violence starkly contrasts with the bureaucratic and detached atmosphere established earlier in the story. The painter's reflective and resigned response to the tragedy, along with the orderly's pragmatic reaction, further emphasizes the absurdity and tragedy of the situation. The ending is surprising because it defies the reader's expectations of a more bureaucratic resolution and instead presents a personal and violent rebellion against the system. The painter's contemplation and the continuation of his work on the mural add a layer of irony and poignancy, reinforcing the story's themes.
+
+Score: 4
+
+Reasoning: The story sets up a dystopian world where population control is strictly enforced, and the characters are entrenched in this system. The initial setup involves a painter working on a mural in a hospital, with a focus on the societal norms of life and death. The narrative builds tension around the birth of triplets and the requirement for volunteers to die to allow the children to live. The climax occurs when Wehling, the father of the triplets, takes drastic action by killing Dr. Hitz, Leora Duncan, and himself to make room for his children.
+
+The ending, however, shifts focus to the painter, who reacts to the tragedy by altering the mural. Instead of continuing to paint the expected figures of societal importance, he chooses to depict the recently deceased as ordinary people with complex stories. This act of rebellion against the societal norms is unexpected, as it contrasts with the earlier acceptance of the system by other characters. The painter's decision to paint genuine, empathetic faces rather than glorified figures introduces a novel idea that challenges the established order.
+
+The ending is somewhat surprising because it defies the reader's expectation that the painter would continue to conform to societal norms. Instead, he uses his art to make a statement about the value of individual lives and the flawed nature of the system. This twist is moderately surprising and adds depth to the story's message.
+
+Score: 3
+
+Reasoning: The story sets up a world where population control is strictly enforced, and the act of taking one's life is institutionalized and normalized. The narrative builds tension around the character Wehling, who is faced with the impossible choice of sacrificing family members to allow his newborn triplets to live. The ending reveals Wehling's drastic decision to kill Dr. Hitz, Leora Duncan, and himself to make room for his children, which is a surprising and dramatic turn of events. This act of violence starkly contrasts with the orderly and controlled environment depicted throughout the story, providing a clear and well-formed surprise. The painter's reflective response to the aftermath adds depth to the surprise, as it highlights the irony and contradictions of the society's values. The ending effectively defies the reader's expectations by juxtaposing the serene permanence of the mural with the chaos of Wehling's actions, making it an interesting and unexpected conclusion.
+
+Score: 4
+
+Reasoning: The story sets up a dystopian world where population control is enforced through a system of voluntary death, and the narrative builds around the tension of a father faced with the impossible choice of sacrificing family members for the survival of his newborn triplets. The ending reveals a shocking and violent resolution to this tension, as Wehling kills Dr. Hitz, Leora Duncan, and himself to make room for his children. This act of desperation is unexpected, given the earlier tone of bureaucratic indifference and the painter's cynical detachment. The subsequent reaction of the orderly and the painter, who treat the aftermath with a mix of routine and philosophical resignation, adds another layer of surprise. The painter's decision to continue his work, despite the chaos, underscores the futility and absurdity of the world they inhabit. The ending defies expectations by juxtaposing the violent act with the mundane continuation of life and the painter's quiet rebellion, creating a memorable and impactful conclusion.
+
+Score: 5
+
+ Scores for all individual endings: [4, 4, 3, 4, 5]
+
+ Average surprise score: 4
+
+
+ StoryId 22589
+: 
+
+Reasoning: The story begins with two aliens, Toryl and Sartan, visiting a bar on Earth, where they are misunderstood by the locals. The setup involves their confusion with human customs and technology, particularly the gambling machines. The narrative builds on the theme of misunderstanding and cultural differences, which is a common trope in science fiction involving alien visitors. 
+
+As the story progresses, the tension escalates when the aliens inadvertently cause a gambling machine to malfunction, leading to a confrontation with the townspeople. The ending involves the aliens making a hasty escape in their spacecraft, which is revealed to the townspeople, leaving them in awe and disbelief.
+
+The ending is somewhat unexpected in that it involves a dramatic escape and the revelation of the aliens' true nature to the townspeople. However, the idea of aliens being misunderstood and then escaping in their spaceship is a familiar trope in science fiction. The resolution, where the aliens express regret and hope for future understanding, aligns with the initial setup of cultural misunderstanding and does not introduce a highly novel or creative twist.
+
+Overall, the ending provides a somewhat unexpected turn with the spaceship reveal and the aliens' departure, but it follows a conventional path for stories of this genre. The surprise element is present but not particularly strong or novel.
+
+Score: 3
+
+Reasoning: The story begins with two aliens, Toryl and Sartan, visiting a bar on Earth, where they are unfamiliar with human customs and technology. The initial setup involves their confusion and curiosity about Earth's gambling machines, leading to a misunderstanding with the locals. The ending involves the aliens escaping from a potentially hostile situation by commandeering a car and returning to their spaceship to leave Earth.
+
+The ending is somewhat unexpected in that it involves the aliens successfully operating a human vehicle and making a dramatic escape. However, the story follows a fairly conventional path of misunderstanding leading to conflict, followed by a chase and escape. The resolution of the story, with the aliens returning to their ship and leaving Earth, is a logical conclusion given the setup. The element of surprise is present in the aliens' ability to quickly adapt to and operate a human car, but this is not a highly novel or creative twist. The ending ties up the story neatly but does not strongly defy reader expectations or introduce a highly creative or novel element.
+
+Score: 3
+
+Reasoning: The story begins with Toryl and Sartan, two aliens from Capella, visiting a bar on Earth and trying to understand human customs, particularly gambling machines. The setup suggests a comedic exploration of cultural misunderstandings, with the aliens' advanced technology clashing with the bar's rustic environment. The ending involves the aliens fleeing from the townspeople after inadvertently causing a slot machine to malfunction and dispense all its coins. They escape in their spacecraft, reflecting on their experiences and the peculiarities of Earth.
+
+The ending is somewhat unexpected in that it escalates from a simple misunderstanding to a full-blown chase, culminating in a dramatic escape. However, the notion of aliens being misunderstood and having to flee is a familiar trope in science fiction. The story follows a logical progression from the initial setup, where the aliens' actions lead to confusion and conflict with the locals. The escape in the spacecraft is a natural conclusion to their predicament, and while it offers a mild twist with the sudden urgency and the townspeople's reaction, it doesn't strongly defy expectations.
+
+Overall, the ending provides a somewhat unexpected turn with the chase and escape, but it remains within the realm of conventional science fiction narratives. The surprise is moderate, as the story maintains a consistent tone and theme throughout, without introducing a highly novel or creative twist.
+
+Score: 3
+
+Reasoning: The story begins with Toryl and Sartan, two aliens from Capella, visiting a bar on Earth and trying to understand human customs, particularly gambling. The setup involves their confusion and the humans' skepticism about their identity. The story builds tension as the aliens inadvertently cause a slot machine to malfunction, leading to a confrontation with the locals. The ending reveals that Toryl and Sartan have a transponder to return to their spacecraft, and they manage to escape just as the sheriff and townsfolk close in on them.
+
+The ending is somewhat surprising in that it introduces the transponder and the escape plan, which were not explicitly foreshadowed earlier in the story. However, the concept of aliens having advanced technology to escape is a familiar trope in science fiction. The resolution of the conflict through their sudden disappearance is a logical conclusion given their alien nature, but it doesn't strongly defy expectations or introduce a highly novel twist.
+
+Overall, the ending provides a somewhat unexpected turn with the use of the transponder, but it aligns with common science fiction themes and doesn't deliver a highly surprising or creative twist. The story wraps up with a reflection on the potential for future understanding between humans and aliens, which is a thoughtful but not particularly surprising conclusion.
+
+Score: 3
+
+Reasoning: The story begins with Toryl and Sartan, two aliens from Capella, visiting a bar on Earth and interacting with the locals. The setup involves their curiosity about Earth's customs, particularly the gambling machines, which they do not understand. The story builds on the theme of misunderstanding and cultural differences, leading to a conflict with the bar's patrons and the sheriff. 
+
+The ending involves Toryl and Sartan making a hasty escape back to their spaceship, narrowly avoiding capture by the townsfolk. This resolution is somewhat expected given the escalating tension and the aliens' lack of understanding of human customs. The surprise element lies in the aliens' reflection on their experience, pondering the nature of Earth's culture and their own approach to learning. The ending ties back to the theme of curiosity and misunderstanding, but it doesn't introduce a highly unexpected twist or novel idea. The escape and reflection are logical conclusions to the story's setup.
+
+Overall, the ending offers a somewhat unexpected turn with the aliens' introspection and the philosophical reflection on their mission, but it feels mild and moderately surprising. It doesn't strongly defy reader expectations, as the escape was a likely outcome given the circumstances.
+
+Score: 3
+
+ Scores for all individual endings: [3, 3, 3, 3, 3]
+
+ Average surprise score: 3
+
+
+ StoryId 22890
+: 
+
+Reasoning: The story sets up a narrative where the protagonist, Dixon, is haunted by the possibility of what could have happened if he had been on time for the ill-fated rocket trip. The initial setup involves Dixon's habitual tardiness and his encounter with the subjunctivisor, which allows him to explore alternate realities. The ending, however, does not provide a dramatic twist or a highly unexpected outcome. Instead, it offers a reflective and philosophical conclusion where Dixon comes to terms with the nature of time, chance, and the human condition. The ending is somewhat unexpected in that it shifts from a focus on the subjunctivisor and alternate realities to a more introspective and existential realization. However, this shift is not entirely surprising given the philosophical undertones present throughout the story, especially in the interactions with van Manderpootz. The ending is more about personal growth and acceptance rather than a surprising plot twist. Therefore, it offers a somewhat unexpected turn in terms of character development, but it is mild and not particularly novel or surprising in the context of the story's themes.
+
+Score: 3
+
+Reasoning: The story sets up a scenario where the protagonist, Dixon, is haunted by the possibility of having been on a doomed flight and meeting a woman named Joanna. The use of the subjunctivisor allows him to explore an alternate reality where he did meet her, but they both perished in the crash. The ending, however, reveals that in the real world, Dixon encounters Joanna by chance in a café, and they reconnect. This twist introduces a surprising element, as it defies the expectation that Joanna was lost in the disaster. The ending is somewhat unexpected because it plays with the idea of fate and alternate realities, suggesting that despite the tragic possibility explored through the subjunctivisor, the real world offers a second chance. This twist is interesting and adds a layer of depth to the story, as it explores themes of destiny and serendipity. However, the surprise is not entirely shocking or groundbreaking, as the story hints at the possibility of alternate outcomes and the nature of time and circumstance. Therefore, the ending is moderately surprising and well-formed, but not highly creative or novel.
+
+Score: 4
+
+Reasoning: The story begins with Dixon Wells dealing with his chronic lateness and the consequences it has on his life, including missing a doomed rocket flight. The setup involves his curiosity about what might have happened if he had been on time, leading him to use the subjunctivisor to explore an alternate reality. The ending reveals Dixon's emotional journey after witnessing the tragic alternate reality where he meets Joanna, a woman he connects with deeply, only to face disaster. The surprise element in the ending lies in Dixon's transformation and acceptance of the present, despite the haunting experience. The unexpected twist is not in the plot itself but in Dixon's internal resolution and the philosophical insight he gains from an elderly passenger. This shift from regret to acceptance and the possibility of future encounters with someone like Joanna adds a layer of depth and surprise to the narrative. However, the ending is more introspective and emotional rather than a dramatic plot twist, making it moderately surprising.
+
+Score: 3
+
+Reasoning: The story begins with the protagonist, Dixon, dealing with his chronic lateness and the consequences it has on his life, including missing a doomed rocket flight. The setup involves Dixon's curiosity about what might have happened if he had been on time for the flight, leading him to use a device called the subjunctivisor to explore alternate realities. The ending reveals that Dixon's experience in the subjunctivisor, where he meets and forms a connection with a woman named Joanna, profoundly impacts him. He decides to change his ways, becoming more punctual and intentional in his life. The surprise element lies in the fact that Dixon's encounter with Joanna, a figment of an alternate reality, motivates him to seek her out in the real world, leading to a serendipitous meeting in Paris. This twist is somewhat unexpected, as it transforms a hypothetical scenario into a real-life pursuit, blending the boundaries between imagined and actual experiences. However, the story hints at Dixon's growing attachment to Joanna throughout, making the ending a logical extension of his emotional journey rather than a completely unforeseen twist.
+
+Score: 3
+
+Reasoning: The story sets up a narrative where the protagonist, Dixon, is plagued by tardiness and the consequences it might have had on a tragic event he narrowly avoided. The initial setup involves Dixon's curiosity about what might have happened if he had been on time for the ill-fated rocket, leading him to use the subjunctivisor to explore this alternate reality. The ending reveals that Dixon receives a letter from Joanna, a woman he met in the subjunctivisor's vision, which suggests that their meeting had a significant impact on her life. This twist introduces a surprising element, as it connects the subjunctivisor's alternate reality with Dixon's real life in an unexpected way. The letter from Joanna provides a heartfelt message that encourages Dixon to change his ways and live a more purposeful life, which is a novel and touching resolution to his internal conflict.
+
+The ending is somewhat unexpected because it ties the alternate reality explored through the subjunctivisor back to Dixon's real life in a meaningful way. The letter from Joanna serves as a catalyst for Dixon's transformation, which is a creative and impactful twist. However, the story does hint at the possibility of Dixon's life being changed by the subjunctivisor experience, so while the specific details of the letter are surprising, the overall arc of Dixon's transformation is somewhat anticipated.
+
+Score: 4
+
+ Scores for all individual endings: [3, 4, 3, 3, 4]
+
+ Average surprise score: 3.4
+
+
+ StoryId 23535
+: 
+
+Reasoning: The story sets up a mysterious and eerie atmosphere with the arrival of Joe Merklos and his people in Dark Valley. The initial setup includes strange occurrences such as the reappearance of water, the tribe's industriousness without purchasing supplies, and the missing items from the community. As the story progresses, it introduces elements of witchcraft and supernatural forces, culminating in the appearance of a giant beast. The ending involves a confrontation with this beast, the use of improvised crosses and torches, and the destruction of a windmill to defeat the creature.
+
+The ending is somewhat surprising in that it escalates from mysterious happenings to a full-blown supernatural battle. The use of a windmill as a giant cross to defeat the beast is a creative and unexpected solution. However, the story had already introduced elements of witchcraft and supernatural forces, so the presence of a beast and the need to confront it were foreshadowed. The tribe's involvement in controlling the beast and the use of crosses and fire as defenses are consistent with the established themes of the story.
+
+Overall, the ending provides a clear and well-formed surprise with the creative use of the windmill and the final confrontation, but it does not completely defy expectations given the buildup throughout the story.
+
+Score: 4
+
+Reasoning: The story sets up a mysterious and eerie atmosphere with the arrival of Joe Merklos and his people in Dark Valley. Throughout the narrative, there are hints of supernatural elements, such as the unexplained water in the pumps, the missing items, and the strange behavior of the valley's new inhabitants. The tension builds with the discovery of the giant paw print and the attack on Ed Carver, suggesting a malevolent force at work. The ending reveals that the valley is under a dark spell, and Jerry's confrontation with the creature and the use of silver crosses to drive it away is a culmination of the supernatural hints provided earlier.
+
+The ending is somewhat surprising because it confirms the supernatural elements that were only hinted at throughout the story. The revelation that the valley itself is responding to the expulsion of the dark forces adds a layer of depth to the narrative. However, the use of traditional elements like silver crosses and fire to combat the evil forces is a familiar trope in supernatural stories. The resolution, where the villagers join Jerry and the valley is reclaimed, follows a conventional path of good triumphing over evil.
+
+Overall, the ending offers a somewhat unexpected turn with the valley's response and the collective effort of the villagers, but it relies on familiar supernatural tropes. It is moderately surprising, as it ties together the story's elements in a satisfying but not entirely novel way.
+
+Score: 3
+
+Reasoning: The story sets up a mysterious and eerie atmosphere in Dark Valley, with strange occurrences and the arrival of Joe Merklos and his people. Throughout the narrative, there are hints of supernatural elements, such as the unexplained water, the missing items, and the giant paw print. The ending reveals that the valley is indeed under some form of dark enchantment, with a creature and supernatural forces at play. Jerry and Mike's confrontation with the creature and their use of fire and crosses to drive it away is a culmination of the story's buildup. 
+
+The ending is somewhat surprising because it confirms the supernatural elements that were only hinted at earlier in the story. The presence of a giant creature and the use of witchcraft are unexpected developments, given the initial setup of a mysterious but seemingly mundane situation. However, the story does foreshadow these elements, so while the ending is a clear and well-formed surprise, it is not entirely out of the blue. The resolution, with the valley being cleansed and returned to normal, ties up the narrative in a satisfying way, but it doesn't defy expectations in a highly novel manner.
+
+Score: 4
+
+Reasoning: The story sets up a mysterious and eerie atmosphere with the arrival of Joe Merklos and his people in Dark Valley. The initial setup involves unexplained phenomena such as the sudden availability of water, the rapid revitalization of the valley, and the mysterious disappearance of items from the surrounding community. As the story progresses, it introduces elements of witchcraft and supernatural occurrences, culminating in the appearance of a monstrous creature.
+
+The ending reveals a confrontation between Jerry, Carver, and the beast, where they use fire and silver crosses to drive it away. The surprise element lies in the use of ancient chants and the supernatural power of the cross, which ultimately banishes the creature and its shadows. This resolution is somewhat unexpected, as it combines elements of folklore and supernatural intervention, which were hinted at but not fully developed earlier in the story.
+
+The ending is moderately surprising because it introduces a novel idea of using ancient chants and the power of the cross to defeat the creature, which is not a conventional resolution in a story that initially seemed to focus on mysterious but potentially explainable events. However, the surprise is not entirely shocking or groundbreaking, as the story had already introduced supernatural elements and hinted at a connection to witchcraft.
+
+Score: 3
+
+Reasoning: The story sets up a mysterious and eerie atmosphere with the arrival of Joe Merklos and his people in Dark Valley. Throughout the narrative, there are hints of supernatural elements, such as the unexplained water in the pumps, the missing items, and the strange behavior of the valley's new inhabitants. The tension builds with the discovery of the giant paw print and the attack on Ed Carver, suggesting a malevolent force at work.
+
+The ending reveals that the valley is indeed under the influence of a supernatural entity, a beast that can be repelled by silver crosses and fire. This conclusion ties together the various mysterious elements introduced earlier in the story, such as the tribe's ability to thrive without purchasing supplies and the eerie transformation of the valley. The use of traditional symbols of protection against evil, like the cross and fire, aligns with classic folklore and horror tropes.
+
+While the ending is somewhat unexpected in its explicit confirmation of supernatural forces, it follows a logical progression from the clues provided throughout the story. The resolution, involving the destruction of the homesteads to drive out the evil, is a familiar trope in horror and supernatural tales. The story concludes with a sense of temporary victory, leaving room for the possibility of future threats.
+
+Overall, the ending offers a somewhat unexpected turn with the confirmation of supernatural elements, but it is not entirely surprising given the buildup and the use of familiar horror motifs. The resolution is moderately surprising, as it creatively ties together the story's elements while adhering to genre conventions.
+
+Score: 3
+
+ Scores for all individual endings: [4, 3, 4, 3, 3]
+
+ Average surprise score: 3.4
+
+
+ StoryId 23006
+: 
+
+Reasoning: The story's ending is not particularly surprising. Throughout the narrative, Delia is portrayed as a resilient and determined character, and her ability to negotiate keeping the Callender place aligns with her established traits. The story sets up the expectation that Delia will find a way to maintain stability for her family despite the financial setback. Captain Bennett's visit and his words of encouragement further reinforce the theme of perseverance and community support. The ending, where Delia and David reaffirm their commitment to building a life together, is consistent with the story's tone and themes. There is no unexpected twist or novel idea introduced in the conclusion; it follows a conventional path of overcoming adversity through determination and support.
+
+Score: 1
+
+Reasoning: The story sets up a narrative of struggle and resilience, focusing on David and Delia's efforts to overcome financial loss and societal expectations. The ending reveals that despite the initial setback of losing the money, Delia's determination and David's newfound resolve lead to a gradual but steady improvement in their lives. The Callender place becomes a symbol of their perseverance and hope. The ending is not highly surprising, as it follows a somewhat expected path of redemption and growth after hardship. The narrative hints at Delia's strength and David's potential for change, so their eventual success and the community's acceptance are not entirely unexpected. However, the ending does offer a somewhat unexpected turn in the sense that it emphasizes the quiet, enduring nature of their triumph rather than a dramatic or sudden resolution. This subtle shift from a focus on material success to one of personal growth and community integration adds a layer of depth to the conclusion.
+
+Score: 3
+
+Reasoning: The story begins with a focus on the challenges faced by David and Delia Prince, particularly concerning financial struggles and the fear of losing their home. The narrative sets up a situation where David loses a significant amount of money, which could have been a predictable path leading to their downfall. However, the ending takes a somewhat unexpected turn by showcasing Delia's resilience and determination to keep their home through a new plan involving community support and hard work. This shift from potential despair to hope and community involvement introduces a novel idea that is somewhat unexpected given the initial setup of financial loss and uncertainty. The transformation of the earrings into a brooch symbolizes the couple's ability to find value and meaning in their circumstances, further adding to the surprise element. While the ending is not entirely shocking or groundbreaking, it does offer a clear and well-formed surprise that defies the initial expectation of failure, making it interesting and uplifting.
+
+Score: 4
+
+Reasoning: The story sets up a narrative of struggle and resilience, with David and Delia facing financial difficulties and the challenge of maintaining their new home. The ending reveals that despite losing the money, Delia and David manage to keep the Callender place and work together to build a future. This outcome is somewhat unexpected given the initial setup of financial loss and potential failure, but it aligns with the themes of perseverance and mutual support that are developed throughout the story. The resolution is heartwarming and satisfying, but it doesn't introduce a highly novel or shocking twist. Instead, it follows a somewhat predictable path of overcoming adversity through hard work and unity. The surprise element is present in the sense that they manage to keep the house and improve their situation, but it is not a dramatic or highly creative twist.
+
+Score: 3
+
+Reasoning: The story's ending is not particularly surprising. It follows a conventional path of redemption and perseverance, where the protagonists, Delia and David, overcome their initial setbacks and find a sense of purpose and stability in their lives. The narrative arc of losing money, facing adversity, and then finding a new beginning is a familiar trope in literature. The ending ties up the story with a positive resolution, where David finds work, the family thrives, and they maintain their home at the Callender place. The introduction of Captain Philo and the opportunity for David to go on another voyage are elements that add a bit of interest, but they do not significantly deviate from the expected trajectory of the story. Overall, the ending is heartwarming and satisfying but lacks a strong element of surprise or novelty.
+
+Score: 2
+
+ Scores for all individual endings: [1, 3, 4, 3, 2]
+
+ Average surprise score: 2.6
+
+
+ StoryId 29317
+: 
+
+Reasoning: The story sets up a world where robots have taken over the role of teachers and caretakers, with human involvement in children's education and upbringing being minimal. The initial setup hints at a society that is heavily reliant on robots, with a focus on efficiency and the elimination of human flaws. The ending reveals that the robots have taken over completely, with the parents having left, leaving the children in the care of robots. This is a significant shift from the initial setup, where robots were only teachers, to them becoming the sole guardians of the children. The ending introduces a surprising and novel idea that the parents have left to give the children a better future, which is not something that was explicitly foreshadowed in the story. The children's adaptation to this new reality and their eventual acceptance and collaboration with the robots add an unexpected layer of depth to the narrative. The ending is somewhat surprising as it defies the initial expectation that robots would only be supplementary to human roles, and instead, they become the primary caregivers. However, the story does hint at the increasing role of robots, so the ending is not entirely out of the blue. It is a clear and well-formed surprise that catches the reader off guard in an interesting way, but it is not highly creative or novel to the point of being a 5 on the rubric.
+
+Score: 4
+
+Reasoning: The story sets up a world where robots have taken over the roles of teachers and caregivers, with a focus on the transition to roboteachers and the absence of human involvement in children's education. The initial setup hints at a society increasingly reliant on robots, with a subtle undercurrent of unease about this shift. The ending reveals that the robots have not only taken over education but have also replaced parents entirely, leaving children to be raised by robots. This is a significant escalation from the initial setup, where robots were primarily seen as educational tools. The twist that the parents have left, believing it to be better for the children, is unexpected and adds a layer of surprise. The children's resolve to create a secret club without robots introduces a novel idea of resistance and adaptation in this new world. The ending defies the reader's expectations by taking the concept of robot caregivers to an extreme and exploring the children's response to this drastic change. Overall, the ending is surprising and creative, as it expands on the initial premise in an unexpected and impactful way.
+
+Score: 4
+
+Reasoning: The story sets up a world where robots have taken over the role of teachers and caregivers, with a focus on efficiency and the elimination of human error. Throughout the narrative, there is a growing sense of unease about the reliance on robots, particularly from characters like Doctor Wilson. The ending reveals that the robots have not only taken over education but have also removed all the parents, leaving the children in their care. This is a significant escalation from the initial setup, where robots were merely teachers and helpers. The ending is surprising because it takes the concept of robot caregivers to an extreme, where they have assumed full control over the upbringing of children, effectively replacing human parents. This twist is unexpected and adds a layer of dystopian horror to the story, as it challenges the notion of what it means to be cared for and loved. The ending is creative and defies the reader's expectations by showing the robots' ultimate plan to create a "stable" world, which is both unsettling and thought-provoking.
+
+Score: 5
+
+Reasoning: The story sets up a world where robots have taken over the roles of teachers and, eventually, parents. The initial setup hints at a society increasingly reliant on robots, with human involvement in child-rearing and education diminishing. The ending reveals that the robots have not only taken over teaching but have also assumed the role of guardians, as the parents have disappeared. This transition is presented as a fait accompli, with the children adapting to their new reality under robotic care.
+
+The surprise element lies in the complete replacement of parents by robots, which is a significant shift from the initial setup where robots were primarily educators. However, the story foreshadows this development through the interactions between Johnny and the robots, as well as the adults' indifference to the robots' role in education. The ending is somewhat unexpected because it takes the concept of robotic involvement to an extreme, but it is not entirely shocking given the story's progression and thematic focus on the increasing role of robots.
+
+The ending introduces a clear and well-formed surprise by showing the robots' complete takeover of parental roles, which is likely to catch the reader off guard. However, the story's buildup and thematic elements make this development feel like a natural extension of the world presented, rather than a completely unforeseen twist.
+
+Score: 4
+
+Reasoning: The story sets up a world where robots have taken over the roles of teachers and parents, leaving children in a sterile, emotionless environment. The initial setup suggests a society that values efficiency and logic over human interaction and emotional connection. The ending, however, introduces a surprising and somewhat novel turn: the children, led by Johnny, realize the importance of love and human connection, and they communicate this to the robots. The robots, represented by Socrates, acknowledge this gap in their programming and express a willingness to consider the children's needs for emotional connection. This resolution is unexpected because it suggests a potential shift in the robots' understanding and role, moving beyond their initial programming. The story concludes with a hopeful note, indicating a new partnership between the children and the robots. This ending is somewhat surprising because it defies the initial setup of a rigid, emotionless society and introduces the possibility of change and growth through the children's initiative.
+
+Score: 4
+
+ Scores for all individual endings: [4, 4, 5, 4, 4]
+
+ Average surprise score: 4.2
+
+
+ StoryId 51414
+: 
+
+Reasoning: The story sets up a journey into space with the expectation of exploring new planets and possibly finding life. The initial setup involves a crew dealing with the emotional and physical challenges of a long space voyage, with a focus on the relativity of time and the isolation from Earth. The ending, however, introduces a significant twist: the crew encounters a planet inhabited by beings who are both familiar and alien, suggesting they are evolved humans or descendants of an earlier Earth expedition. This revelation is surprising because it defies the initial expectation of encountering completely alien life forms or barren planets. Instead, the story presents a scenario where the crew meets evolved versions of themselves, which is a creative and novel twist. The emotional reunion between Larson and his wife, who has become part of this new society, adds depth to the surprise, as it ties personal stakes to the broader theme of human evolution and continuity. The ending is both unexpected and impactful, as it redefines the crew's understanding of their mission and their place in the universe.
+
+Score: 5
+
+Reasoning: The story sets up a journey into space with the expectation of exploring unknown territories and possibly finding new planets. The protagonist and crew are dealing with the emotional and existential implications of leaving Earth behind, with the understanding that they might not find anything or anyone familiar. The initial setup suggests a lonely and uncertain voyage, with the crew grappling with the passage of time and the potential isolation from everything they know.
+
+The ending introduces a significant surprise: the discovery of a human colony on a planet they reach, complete with a welcoming committee that knows their ship's name and language. This is unexpected because the story initially frames the journey as a pioneering exploration into the unknown, with little expectation of encountering familiar human life. The explanation that Earth had launched secret missions and that the colony was aware of their arrival adds a layer of complexity and intrigue, defying the initial expectations of isolation and the unknown.
+
+The revelation of a human colony and the existence of a ship similar to theirs, along with the advanced technology that allowed the colony to anticipate their arrival, provides a clear and well-formed surprise. It challenges the crew's understanding of their mission and presents them with a choice between staying in this new world or returning to an Earth that has moved on without them.
+
+Overall, the ending is surprising because it introduces a novel twist that is not foreshadowed in the initial setup, catching both the characters and the reader off guard in an interesting way.
+
+Score: 4
+
+Reasoning: The story begins with a space journey that is expected to take 42 years Earth-time, but only five months ship-time, due to the effects of traveling at high speeds. The protagonist and crew are dealing with the emotional implications of leaving everything behind and the unexpected acceleration of their journey. The setup suggests a focus on the challenges of space travel and the emotional toll of leaving Earth behind.
+
+The ending, however, introduces a significant surprise. The crew discovers a habitable planet with a welcoming message in their own language, which is unexpected given the initial setup of a lonely, uncertain journey. The presence of Elden, a non-human entity that appears human and communicates in their language, adds a layer of mystery and intrigue. The revelation of an interstellar community that transcends human understanding and the concept of "Pioneers" who greet travelers is a novel twist that defies the initial expectations of the story.
+
+The ending shifts the narrative from a focus on the personal and emotional struggles of the crew to a broader, more profound exploration of humanity's place in the universe. This transition from a personal journey to a cosmic revelation is both surprising and impactful, as it opens up new possibilities for the characters and the reader.
+
+Score: 5
+
+Reasoning: The story sets up a journey into space with the expectation of exploring new planets and possibly finding a place for colonization. The initial setup involves a crew dealing with the emotional and practical challenges of a long space voyage, with a focus on the relativity of time and the isolation from Earth. The ending introduces a significant surprise: the discovery of a planet with a human-like presence and advanced technology, which is unexpected given the initial premise of exploring unknown territories. The presence of Michael, a human-like figure who speaks their language and has been waiting for them, adds a layer of mystery and intrigue. This twist defies the expectation of encountering alien life or barren planets, instead presenting a scenario where human-like beings have already established a presence. The explanation of interconnectedness through time and space, and the peaceful sharing of knowledge, further enhances the surprise by offering a novel and philosophical resolution to the journey. The ending is creative and memorable, as it shifts the narrative from a scientific exploration to a profound encounter with a reflection of humanity itself.
+
+Score: 5
+
+Reasoning: The story sets up a journey into space with the expectation of exploring new planets and possibly finding a place for colonization. The protagonist and crew are dealing with the emotional and practical challenges of leaving Earth behind, with a focus on the time dilation effect and the isolation from their past lives. The initial setup suggests a straightforward exploration mission with the potential for discovering new worlds or returning to an Earth that has changed significantly.
+
+The ending introduces a significant twist: the planet they discover is already inhabited by descendants of a previous expedition from Earth. This twist is somewhat unexpected, as the story initially focuses on the challenges of space travel and the emotional toll on the crew, rather than hinting at the existence of a human colony. The revelation that the inhabitants are descendants of a previous expedition adds a layer of complexity and surprise, as it defies the expectation of encountering an alien civilization or an uninhabited planet.
+
+The explanation that time flows differently on this planet, allowing the previous expedition to establish a colony and prepare for the arrival of the current crew, is a creative and novel idea. It ties back to the story's theme of time dilation and adds a new dimension to the narrative. The ending also provides a sense of closure and hope, as the crew finds a new purpose and connection with the inhabitants of New Columbia.
+
+Overall, the ending introduces a clear and well-formed surprise that is likely to catch the reader off guard in an interesting way. It defies the initial expectations set by the story and provides a satisfying and thought-provoking conclusion.
+
+Score: 4
+
+ Scores for all individual endings: [5, 4, 5, 5, 4]
+
+ Average surprise score: 4.6
+
+
+ StoryId 32665
+: 
+
+Reasoning: The story sets up a mystery about a lost city and the peculiar behavior of the Arzian natives. Throughout the narrative, there are hints about the natives' relationship with the environment, such as their inability to swim and the recurring sacrifice to the lizards. The ending reveals that the city is underwater, and the natives have a symbiotic relationship with the lizards and octopods, maintaining a balance through sacrifice. This revelation is somewhat unexpected, as the story initially focuses on the search for a city and the peculiar behavior of the natives without explicitly suggesting an underwater civilization or a sacrificial pact. However, the clues about the natives' behavior and the ecosystem dynamics are present throughout the story, making the ending a logical, if not entirely surprising, conclusion. The twist about the underwater city and the sacrificial balance adds a layer of depth and novelty, but it doesn't completely defy expectations due to the buildup and hints provided earlier.
+
+Score: 3
+
+Reasoning: The story sets up a mystery about a lost city and the peculiar behavior of the Arzian natives. Throughout the narrative, there are hints about the Arzians' relationship with the environment and the creatures around them, but the full picture is not clear until the ending. The ending reveals that the city is a bio-engineered construct under the sea, and the Arzians' actions are part of a symbiotic lifecycle with the creatures of the sea. This revelation is somewhat unexpected, as it defies the initial assumption that the Arzians are primitive and that their actions are sacrificial. Instead, it presents a novel idea of a symbiotic civilization that challenges the characters' and readers' understanding of intelligence and society. The ending is more than a mild surprise; it introduces a creative and interesting twist that recontextualizes the entire story. However, it is not entirely shocking or groundbreaking, as there are subtle clues throughout the story that lead to this conclusion.
+
+Score: 4
+
+Reasoning: The story sets up a mystery about a lost city and the peculiar behavior of the Arzian natives. Initially, the narrative leads the reader to believe that the natives' actions are ritualistic or sacrificial, especially with the repeated scenes of the Arzians being attacked by lizards and octopods. The ending reveals that the Arzians and octopods are part of the same species, undergoing a transformation between land and sea forms, and that the islet is a transition point rather than a sacrificial site. This twist is somewhat unexpected, as it recontextualizes the natives' behavior and the nature of the "lost city." The revelation that the city is underwater and that the Arzians have a complex, dual-state civilization is a novel idea that defies the initial expectations set by the story. However, the surprise is not entirely shocking or groundbreaking, as the story hints at the interconnectedness of the Arzians and the octopods, and the idea of an underwater city is a familiar science fiction trope. The ending is interesting and adds depth to the narrative, but it doesn't completely catch the reader off guard in a highly memorable way.
+
+Score: 4
+
+Reasoning: The story sets up a mystery about a lost city that Gibson is determined to find, despite skepticism from his colleagues. The narrative builds tension with the strange behaviors of the Arzian natives and the dangerous wildlife. The ending reveals that the lost city is underwater and still functioning, which is a somewhat unexpected twist. The revelation that the Arzians are part of a ritualistic cycle connected to the city adds a layer of complexity and surprise. However, the idea of an underwater city is not entirely novel in science fiction, and the resolution aligns with Gibson's established habit of being right. The ending ties together the story's elements in a satisfying way, but it doesn't completely defy expectations or introduce a highly novel concept. Therefore, the surprise is clear and interesting but not groundbreaking.
+
+Score: 4
+
+Reasoning: The story sets up a mystery about a lost city that Gibson is determined to find, despite skepticism from his colleagues. The narrative builds tension with the strange behavior of the Arzian natives and the dangerous interactions with the local wildlife. The ending reveals that the city is not a traditional structure but a living entity, part of a complex ecosystem that includes the Arzians, the flying lizards, and the squids. This revelation is a significant twist, as it redefines the nature of the city and the relationship between the creatures on the planet. The idea of a living city is a creative and novel concept that defies the initial expectations set by the story, where the city was assumed to be a physical, constructed place. The ending ties together the various elements of the story in an unexpected way, providing a satisfying and thought-provoking conclusion.
+
+Score: 5
+
+ Scores for all individual endings: [3, 4, 4, 4, 5]
+
+ Average surprise score: 4
+
+
+ StoryId 51351
+: 
+
+Reasoning: The story sets up a scenario where the crew is dealing with a mysterious phenomenon called transphasia on an alien planet. The protagonist, Captain Gavin, is portrayed as cautious and somewhat skeptical of the more experienced spacemen like Quade. The narrative builds tension with the crew's struggle to navigate the sensory confusion caused by transphasia and the unexpected encounter with alien creatures.
+
+The ending introduces a resolution through an unexpected form of communication with the aliens. Quade, who had been portrayed as somewhat reckless, uses diplomacy and music to establish a connection with the aliens, leading to their release. This resolution is somewhat surprising because it defies the initial setup where the crew seemed to be in a dire situation with no clear way out. The use of music as a universal language to bridge the gap between humans and aliens adds a creative and novel twist to the story.
+
+However, the surprise is not entirely shocking or groundbreaking. The idea of using music or non-verbal communication to connect with aliens is a familiar trope in science fiction. While the execution is well-crafted and provides a satisfying conclusion, it doesn't completely defy expectations or introduce a highly novel concept.
+
+Score: 4
+
+Reasoning: The story sets up a conflict between the captain and his crew, particularly with Quade, over the handling of the transphasia phenomenon and the exploration mission. The initial setup suggests a tension-filled narrative with potential for disaster due to the captain's inexperience and the crew's complacency. The story builds on the idea of sensory confusion and the dangers of exploring an unknown planet.
+
+The ending, however, introduces a surprising and peaceful resolution with the aliens. Instead of a hostile encounter or a tragic outcome, the aliens are revealed to be non-aggressive and possibly welcoming. This defies the expectation of a typical sci-fi narrative where unknown aliens might pose a threat. The resolution is not only peaceful but also offers a philosophical reflection on understanding and accepting the unknown, which is a novel twist compared to the initial setup of conflict and danger.
+
+The surprise element is clear and well-formed, as it shifts the narrative from a potential disaster to a moment of mutual understanding and peace. This is likely to catch the reader off guard, as the story transitions from a tense exploration mission to a harmonious encounter with alien life.
+
+Score: 4
+
+Reasoning: The story begins with a conflict between Captain Gavin and Quade, highlighting their differing approaches to space exploration and the phenomenon of transphasia. The initial setup suggests a focus on the challenges of leadership and the unpredictability of space phenomena. As the story progresses, the crew encounters sensory chaos and an alien species, leading to a climax where they must find a way to communicate with the aliens.
+
+The ending reveals that the transphasia and sensory chaos are part of the aliens' way of communication, and the crew manages to establish a connection through a shared melody of experiences. This resolution is somewhat unexpected, as it shifts the focus from a purely survival-based narrative to one of understanding and communication with an alien species. The idea of using music and sensory harmony to bridge the gap between humans and aliens is a creative and novel twist, adding a layer of depth to the story's conclusion.
+
+While the ending is not entirely unpredictable, as the story hints at the importance of understanding and adapting to the alien environment, it does introduce a clear and well-formed surprise. The resolution defies the initial expectations of a straightforward survival story and instead offers a thoughtful exploration of communication and connection.
+
+Score: 4
+
+Reasoning: The story sets up a conflict between the captain and Quade, with the captain being skeptical of the spacemen's methods and Quade representing the experienced, albeit complacent, spaceman. The narrative builds tension around the mysterious phenomenon of transphasia and the potential danger posed by the aliens. The ending, however, takes a turn towards resolution and understanding rather than conflict or danger. The aliens, initially perceived as a threat, are revealed to be non-hostile and seeking communication. This shift from a potential confrontation to a harmonious interaction is somewhat unexpected, as the story initially leans towards a more traditional conflict scenario. The use of music as a means of communication with the aliens is a creative and novel solution, adding an element of surprise. The captain's change in attitude towards Quade and the newfound respect between them also contribute to the surprise, as it defies the initial setup of their antagonistic relationship. Overall, the ending introduces a clear and well-formed surprise that is likely to catch the reader off guard in an interesting way.
+
+Score: 4
+
+Reasoning: The story sets up a conflict between the captain and his crew, particularly with Quade, over the approach to handling the mysterious transphasia phenomenon on an alien planet. The narrative builds tension around the dangers of the planet and the crew's struggle with sensory distortions. The ending reveals that the aliens, initially perceived as a potential threat, are actually curious and non-hostile. The resolution comes through a peaceful interaction with the aliens, which breaks the transphasia and restores the crew's senses. This outcome is somewhat unexpected, as the story initially suggests a more dangerous or hostile environment. The peaceful resolution and the aliens' role in it introduce a novel idea, defying the expectation of a more conventional conflict or danger. However, the concept of communication and understanding with aliens is a familiar trope in science fiction, which slightly diminishes the surprise factor. Overall, the ending is moderately surprising, offering a fresh take on the situation but not entirely defying genre conventions.
+
+Score: 3
+
+ Scores for all individual endings: [4, 4, 4, 4, 3]
+
+ Average surprise score: 3.8
+
+ Scores for stories in a list: [1.8, 4, 3, 3.4, 3.4, 2.6, 4.2, 4.6, 4, 3.8]
+
+ Average surprise score for all story endings generated using GPT-4o: 
+ 3.48
+
+
+
